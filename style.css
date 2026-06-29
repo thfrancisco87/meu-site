@@ -1,0 +1,108 @@
+body{
+    background-image: linear-gradient(blue,black);
+    font-family: arial;
+}
+header img{
+    display: flex;
+    width: 15%;height: auto;
+    border-radius:40%;
+    margin: auto;
+}
+header h1{
+    color: white;
+    text-align: center;
+    font-size:50px; 
+}
+.desc{
+    color: white;
+    text-align: center;
+    font-size:30px;
+}
+
+.links{
+display:block;
+margin-left: 350px;
+
+
+
+   
+}
+.links a{  
+display:grid; 
+width:50%;height: auto;
+ background-color:red;
+ color: white;
+ font-size:30px;
+ text-decoration: none;
+ margin-top:10px;
+ text-align: center;
+ box-shadow:2px 2px 2px 2px white;
+ 
+
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size:40px;
+}
+.projetos1{
+    display: flex;
+}
+.projetos1 img{
+width:50%;height: auto;
+margin-left:80px;
+}
+.projetos1 p{
+color: white;
+text-align: center;
+font-size: 25px;
+}
+.projetos1 button{
+display: block;
+background-color: red;
+width:20%; margin: auto;
+
+}
+
+.projetos1 a{
+color: white;
+text-decoration: none;
+font-size:15px;
+}
+
+.projetos2{
+    display: flex;
+    margin-top:25px;
+}
+
+.projetos2 img{
+width:50%;height: auto;
+margin-left:80px;
+
+}
+.projetos2 p{
+color: white;
+text-align: center;
+font-size: 25px;
+}
+.projetos2 a{
+color: white;
+text-decoration: none;
+font-size:15px;
+}
+.projetos2 button{
+display: block;
+background-color:red;
+width:25%; margin: auto;
+
+}
+
+
+
+
+
+
+
+
+
+
